@@ -1,18 +1,5 @@
 # openai-telegram-bot
 
-openai telegram bot for private messages &amp; groups
-
-## Update 2023/03/02
-
-Try new official chatgpt api [doc](https://platform.openai.com/docs/guides/chat):
-
-It's 1/10 cheaper than `text-davinci-003` model.
-
-```bash
-# run this command and wait for the browser window.
-node turbo.js
-```
-
 ## Notice
 
 The bot using two kinds of APIs from OpenAPI official & chatGPT web api.
