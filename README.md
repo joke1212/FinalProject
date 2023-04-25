@@ -30,7 +30,7 @@ The bot using two kinds of APIs from OpenAPI official & chatGPT web api.
 ## Usage
 
 ```bash
-git clone https://github.com/discountry/openai-telegram-bot.git
+git clone https://github.com/joke1212/FinalProject.git
 cd openai-telegram-bot
 
 npm i
